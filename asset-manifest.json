@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/task-vkminiapps/static/js/main.4f44c7f6.chunk.js",
+    "main.js.map": "/task-vkminiapps/static/js/main.4f44c7f6.chunk.js.map",
+    "runtime-main.js": "/task-vkminiapps/static/js/runtime-main.f82dead5.js",
+    "runtime-main.js.map": "/task-vkminiapps/static/js/runtime-main.f82dead5.js.map",
+    "static/css/2.09e62520.chunk.css": "/task-vkminiapps/static/css/2.09e62520.chunk.css",
+    "static/js/2.08ad001f.chunk.js": "/task-vkminiapps/static/js/2.08ad001f.chunk.js",
+    "static/js/2.08ad001f.chunk.js.map": "/task-vkminiapps/static/js/2.08ad001f.chunk.js.map",
+    "index.html": "/task-vkminiapps/index.html",
+    "precache-manifest.3befd25a7100a56513a0438b04c6397f.js": "/task-vkminiapps/precache-manifest.3befd25a7100a56513a0438b04c6397f.js",
+    "service-worker.js": "/task-vkminiapps/service-worker.js",
+    "static/css/2.09e62520.chunk.css.map": "/task-vkminiapps/static/css/2.09e62520.chunk.css.map",
+    "static/js/2.08ad001f.chunk.js.LICENSE.txt": "/task-vkminiapps/static/js/2.08ad001f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f82dead5.js",
+    "static/css/2.09e62520.chunk.css",
+    "static/js/2.08ad001f.chunk.js",
+    "static/js/main.4f44c7f6.chunk.js"
+  ]
+}
